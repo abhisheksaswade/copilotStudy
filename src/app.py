@@ -52,6 +52,18 @@ activities = {
         "max_participants": 15,
         "participants": ["liam@mergington.edu", "ava@mergington.edu"]
     },
+    "Volleyball": {
+        "description": "Join the volleyball team to practice and compete in matches.",
+        "schedule": "Tuesdays & Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "Tennis": {
+        "description": "Learn and play tennis with fellow students. All skill levels welcome.",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": []
+    },
     # Artistic activities
     "Art Club": {
         "description": "Explore painting, drawing, and other visual arts",
@@ -65,6 +77,18 @@ activities = {
         "max_participants": 20,
         "participants": ["charlotte@mergington.edu", "jack@mergington.edu"]
     },
+    "Drama Club": {
+        "description": "Participate in acting, stage production, and school plays.",
+        "schedule": "Fridays, 4:00 PM - 6:00 PM",
+        "max_participants": 25,
+        "participants": []
+    },
+    "Digital Photography": {
+        "description": "Explore digital photography techniques and photo editing.",
+        "schedule": "Mondays, 4:00 PM - 5:30 PM",
+        "max_participants": 15,
+        "participants": []
+    },
     # Intellectual activities
     "Mathletes": {
         "description": "Compete in math competitions and solve challenging problems",
@@ -77,6 +101,18 @@ activities = {
         "schedule": "Wednesdays, 4:00 PM - 5:00 PM",
         "max_participants": 14,
         "participants": ["elijah@mergington.edu", "harper@mergington.edu"]
+    },
+    "Debate Team": {
+        "description": "Develop your public speaking and argumentation skills in debate competitions.",
+        "schedule": "Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": []
+    },
+    "Coding Club": {
+        "description": "Learn programming, work on projects, and participate in coding challenges.",
+        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": []
     }
 }
 
